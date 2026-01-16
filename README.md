@@ -76,8 +76,9 @@ line argument specifying the number of players (between 2 and 10):
 ```bash
 javac src/*.java
 java Game <numPlayers>
+```
 
-## Possible Extensions
+## Future Improvements
 
 - Replace integer suit/rank representations with enums
 - Refactor scoring logic into a separate evaluator class
